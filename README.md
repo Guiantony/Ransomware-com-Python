@@ -20,7 +20,7 @@ Para isso foram utilizados os seguintes códigos feitos em Python / For this, th
 Esses dois códigos foram criados com o objetivo de criptografar e descriptografar um arquivo chamado 'Arquivo.txt' presente na máquina que estava sendo utilizada no momento (Kali Linux). O conteúdo desse 'Arquivo.txt' é o seguinte / 
 These two codes were created with the purpose of encrypting and decrypting a file named Arquivo.txt present on the machine being used at the time (Kali Linux). The content of this Arquivo.txt is as follows:
 
-![mensagem 1](https://github.com/Guiantony/Ransomware-com-Python/assets/151053367/52a96d74-e041-4d16-b50d-5e7d8d04c0ed)
+![mensagem 1](https://github.com/Guiantony/Ransomware-com-Python/assets/151053367/1897a724-26d0-4ea8-9c16-f2529ee50cce)
 
 Após a execução do código de criptografia, o conteúdo do 'Arquivo.txt' se torna criptografado / 
 After executing the encryption code, the content of 'Arquivo.txt' becomes encrypted :
@@ -30,4 +30,4 @@ After executing the encryption code, the content of 'Arquivo.txt' becomes encryp
 Após a execução do código de descriptografia, o conteúdo do 'Arquivo.txt' se torna legível novamente / 
 After executing the decryption code, the content of 'Arquivo.txt' becomes readable again : 
 
-![mensagem 1](https://github.com/Guiantony/Ransomware-com-Python/assets/151053367/d3690017-caad-45a5-a386-9bf58a55f5e1)
+![mensagem 1](https://github.com/Guiantony/Ransomware-com-Python/assets/151053367/215cf90a-2aaf-491c-a282-1e2c30a93f8c)
